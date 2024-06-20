@@ -1,0 +1,129 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+body{
+    margin: 0;
+    font-family: "Titillium Web", sans-serif;
+}
+
+
+section{
+    height: 500px;
+    margin-bottom: 100px;
+    
+}
+.font-color{
+    color: rgb(245, 67, 126);
+}
+
+.halfWidth{
+    
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.halfWidth img{
+    width: 100%;
+    size: 90%;
+    
+}
+
+.click-button{
+    background-color:rgb(245, 67, 126); 
+    color: white;
+    text-decoration: none;
+    
+    padding:10px 20px;
+    border-radius: 10px;
+}
+
+.header{
+    /* background-image: url("/images/header-bg.png"); */
+    background-repeat: no-repeat;
+    background-position:left;
+    background-size: cover;
+}
+
+.text-part{
+    margin-top: 80px;
+}
+
+.biography{
+    background-repeat: no-repeat;
+    background-position:left;
+    background-size: cover;
+    
+
+}
+
+
+
+.item-list ul{
+   
+    margin-left: 100px;
+    
+
+}
+
+
+.item-list ul li{
+    list-style: none;
+    display: inline-flex;
+    margin: 10px;
+    padding: 10px;
+
+}
+
+
+
+.item-list img{
+    height: 250px;
+    width: 300px;
+
+
+}
+
+.latest-work{
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+    height: 400px;
+}
+
+
+
+.client-part{
+   
+    text-align: center;
+   
+}
+
+.contract{
+    margin: auto;
+    background-color: rgb(245, 67, 126);
+    width: 500px;
+    height: 100px;
+    margin-top: 50px;
+    padding: 15px 10px;
+    border-radius: 10px;
+}
+
+.connection {
+    text-align: center;
+    color: white;
+    
+}
+.client{
+    background-position:right;
+    height: 400px;
+    background-size:cover;
+}
+
+.footer{
+    margin-top: 100px;
+    background-color: whitesmoke;
+}
